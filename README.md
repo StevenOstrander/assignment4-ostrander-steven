@@ -15,3 +15,8 @@
 
 I, Steven Ostrander, have read the point deduction list and understand that I will lose points for missing items.
 
+## Image
+
+Please note - This image should NOT be static on the website, it should be moving due to animation in the CSS.
+
+![Tennis Ball](https://github.com/StevenOstrander/assignment4-ostrander-steven/blob/main/images/tennisball.png?raw=true)
