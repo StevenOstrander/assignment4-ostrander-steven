@@ -1,0 +1,62 @@
+/*========================================
+
+
+  Universal Styling
+
+
+===========================================*/
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 20px;
+    border-radius: 15px;
+}
+
+@font-face {
+    font-family: "mystique";
+    src: url(../fonts/Mystique.ttf) format("truetype");
+}
+
+.navbar {
+    position: fixed;
+    color: white;
+}
+
+
+body { 
+    background: url(../images/tennisbg.jpg) fixed;
+}
+
+title {
+    color: white;
+}
+
+h2 {
+    font-family: "mystique";
+    color: white;
+    font-size: 3em;
+    letter-spacing: 3px;
+    padding-top: 40px;
+    margin: 1em;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Anton', sans-serif;
+    color: white;
+    font-size: 2em;
+    text-align: center;
+}
+
+p {
+    font-family: 'Anton', sans-serif;
+    color: #e5e5e5;
+    padding: 30px;
+    letter-spacing: 0.1em;
+    text-align: center;
+}
+
+.aligncenter {
+text-align: center;
+}
