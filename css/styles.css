@@ -18,9 +18,10 @@
     src: url(../fonts/Mystique.ttf) format("truetype");
 }
 
-.navbar {
+h1 {
     position: fixed;
     color: white;
+    font-family: "mystique";
 }
 
 
