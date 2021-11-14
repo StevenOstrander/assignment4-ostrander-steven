@@ -109,3 +109,20 @@ p {
     float: left;
     padding-right: 50px;
 }
+
+
+.tennisball {
+    animation: 1.5s linear infinite alternate slidein;
+}
+
+@keyframes slidein {
+    from{
+        margin-left: 94%;
+    }
+    
+    to{
+        margin-left: 0%;
+    }
+
+
+}
