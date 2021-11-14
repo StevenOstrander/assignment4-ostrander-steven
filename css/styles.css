@@ -83,6 +83,14 @@ h3 {
     z-index: 9999;
 }
 
+.favsport-text {
+    display: inline-block;
+    width: 800px;
+    padding-inline-start: 300px;
+    padding-inline-end: 300px;
+    padding-bottom: 70px;
+}
+
 .favoriteplayer-text {
     padding-top: 40px;
 }
