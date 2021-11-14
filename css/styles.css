@@ -43,15 +43,16 @@ title {
 h2 {
     font-family: "mystique";
     color: white;
-    font-size: 3em;
+    font-size: 5em;
     letter-spacing: 3px;
     padding-top: 40px;
-    margin: 1em;
+    margin: 0.5em;
     text-align: center;
+    
 }
 
 .greenyellow-text {
-    color: greenyellow;
+    color: yellowgreen;
 }
 
 h3 {
@@ -61,6 +62,31 @@ h3 {
     text-align: center;
 }
 
+.top-block {
+    position: relative;
+    width: 100%;
+}
+
+.kidimage {
+    display: block;
+    height: auto;
+}
+
+.heading-first {
+    position: absolute;
+    text-align: center;
+    color: grey;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    z-index: 9999;
+}
+
+.favoriteplayer-text {
+    padding-top: 40px;
+}
+
 p {
     font-family: 'Anton', sans-serif;
     font-size: 1.3em;
@@ -68,9 +94,10 @@ p {
     padding: 30px;
     letter-spacing: 0.1em;
     text-align: center;
+    position: relative;
 }
 
 .aligncenter {
-    float: right;
+    float: left;
     padding-right: 50px;
 }
